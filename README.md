@@ -15,7 +15,7 @@ Skills: Wireshark | Metasploit Framework | Nmap | Burp Suite | Volatility | Splu
 - 📫 How to reach me: solveniteop@protonmail.me 
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I'm short :-<
-- Feel free to reach out to me on my socials given below :)
+### Feel free to reach out to me on my socials given below :)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/solveniteop)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gokul-ravindran2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@solvenitefr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Solvenite)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@solvenite)  
