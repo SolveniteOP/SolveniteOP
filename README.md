@@ -1,26 +1,29 @@
-<h1 align="center">Hi 👋, I'm Gokul</h1>
-<h3 align="center">And I'm a passionate Cybersecurity Student!</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gokul
+=============================================================================================================================
 
-<p align="left"> <a href="https://twitter.com/solvenitefr" target="blank"><img src="https://img.shields.io/twitter/follow/solvenitefr?logo=twitter&style=for-the-badge" alt="solvenitefr" /></a> </p>
+And I'm an Undergrad Cybersecurity Student!
+---------------------
 
-- 🔭 I’m currently engaged in **Blue Teaming Labs**
+From a young age, I've always been intrigued by the intricacies of cybersecurity. My fascination began at 16, when I first discovered the world of security and its endless possibilities. The challenge of protecting systems and data from malicious attacks captivated my interest, leading me to pursue a career in this dynamic field. 
 
-- 📫 How to reach me **solveniteop@proton.me**
+Currently, I am a dedicated cybersecurity student, immersing myself in the complexities of protecting networks and systems. My focus is on blue teaming labs, where I specialize in defensive security measures, learning to identify, respond to, and mitigate cyber threats effectively through hands-on labs and real-world scenarios. 
 
-- 👯 I’m looking to collaborate on **CTFs, KOTHs & Hackathons**
+In addition to my academic pursuits, I actively participate in CTFs and platforms like TryHackMe, where I'm proud to be ranked in the top 3% globally, a testament to my commitment, skill, and continuous learning in the cybersecurity domain. This achievement reflects my dedication to staying at the forefront of cybersecurity trends, constantly challenging myself to improve and adapt in an ever-evolving landscape.
 
-- 🌱 I’m currently learning **Volatility, Splunk & Snort :)**
+* 🌍  I'm based in India
+* ✉️  You can contact me at [solveniteop@proton.me](mailto:solveniteop@proton.me)
+* 🧠  I'm learning Volatility, Splunk & Snort :)
+* 🤝  I'm open to collaborating on CTFs & KOTHs
+* ⚡  I'm short :-<
 
-- 📝 I regularly write articles on **https://medium.com/@solvenite**
+### Skills
 
-- ⚡ Fun fact: **I'm short lol**
 
-<h3 align="left">Let's Connect:</h3>
 <p align="left">
-<a href="https://twitter.com/solvenitefr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="solvenitefr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gokul-ravindran2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gokul-ravindran2/" height="30" width="40" /></a>
-<a href="https://medium.com/@solvenite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@solvenite" height="30" width="40" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/187815898285998080" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/solveniteop" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/gokul-ravindran2/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@solvenite" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/solvenitefr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
