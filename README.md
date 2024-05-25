@@ -4,7 +4,7 @@
 
 From a young age, I've always been intrigued by the intricacies of cybersecurity. My fascination began at 16, when I first discovered the world of security and its endless possibilities. The challenge of protecting systems and data from malicious attacks captivated my interest, leading me to pursue a career in this dynamic field. 
 
-Currently, I am a dedicated cybersecurity student, immersing myself in the complexities of protecting networks and systems. My focus is on blue teaming labs, where I specialize in defensive security measures, learning to identify, respond to, and mitigate cyber threats effectively through hands-on labs and real-world scenarios. 
+Currently, I am a full time cybersecurity student, immersing myself in the complexities of protecting networks and systems. My focus is on blue teaming labs, where I specialize in defensive security measures, learning to identify, respond to, and mitigate cyber threats effectively through hands-on labs and real-world scenarios. 
 
 In addition to my academic pursuits, I actively participate in CTFs and platforms like TryHackMe, where I'm proud to be ranked in the top 3% globally, a testament to my commitment, skill, and continuous learning in the cybersecurity domain. This achievement reflects my dedication to staying at the forefront of cybersecurity trends, constantly challenging myself to improve and adapt in an ever-evolving landscape.
 
