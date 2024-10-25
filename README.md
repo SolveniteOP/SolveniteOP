@@ -10,6 +10,3 @@ From a young age, I've always been intrigued by the intricacies of cybersecurity
 
 ### Random Dev Quote ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### Memes that made my day 😂 
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
